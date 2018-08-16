@@ -1,0 +1,5 @@
+jahre = [1999, 2000, 1984, 1988]
+puts jahre[0]
+puts jahre[1]
+puts jahre[2]
+puts jahre[3]
